@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Covid-19</string>
+    <string name="data">Date</string>
+    <string name="bot_o_para_mais_informa_es">Button for more information</string>
+    <string name="suspeitos">Suspects</string>
+    <string name="confirmados">Confirmed</string>
+    <string name="descartados">Discarded</string>
+    <string name="mortes">Deaths</string>
+    <string name="monitoramento">Monitoring</string>
+    <string name="curados">Cured</string>
+    <string name="suspeitos_em_isolamento_social">Suspects in Social Isolation</string>
+    <string name="suspeitos_em_isolamento_hospitalar">Suspects in Hospital Isolation</string>
+    <string name="confirmados_em_isolamento_hospitalar">Confirmed in Hospital Isolation</string>
+    <string name="boletim_do_dia">Newsletter of the Day:</string>
+    <string name="dia_do_boletim">Bulletin Day</string>
+    <string name="numero_de_suspeitos">Number of suspects</string>
+    <string name="lista_de_boletins">List of bulletins</string>
+    <string name="numero_de_pessoas_em_monitoramento">Number of people being monitored</string>
+    <string name="numero_de_casos_descartados">Number of cases discarded</string>
+    <string name="numero_de_pessas_curadas">Number of people cured</string>
+    <string name="numeoro_de_casos_suspeitos_em_isolamento_social">Number of suspected cases in social isolation</string>
+    <string name="numero_de_casos_suspeitos_em_isolamento_hospitalar">Number of suspected cases in hospital isolation</string>
+    <string name="numero_de_casos_confirmados_em_isolamento_hospitalr">Number of confirmed cases in hospital isolation</string>
+    <string name="horario_do_boletim">Bulletin schedule</string>
+    <string name="numero_de_casos_suspeitos">Number of suspected cases</string>
+    <string name="numero_de_mortes">Number of deaths</string>
+    <string name="numero_de_casos_confirmados">Number of confirmed cases</string>
+</resources>

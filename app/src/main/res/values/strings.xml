@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Covid-19</string>
+    <string name="data">Data</string>
+    <string name="bot_o_para_mais_informa_es">Botão para mais informações</string>
+    <string name="suspeitos">Suspeitos</string>
+    <string name="confirmados">Confirmados</string>
+    <string name="descartados">Descartados</string>
+    <string name="mortes">Mortes</string>
+    <string name="monitoramento">Monitoramento</string>
+    <string name="curados">Curados</string>
+    <string name="suspeitos_em_isolamento_social">Suspeitos em Isolamento Social</string>
+    <string name="suspeitos_em_isolamento_hospitalar">Suspeitos em Isolamento Hospitalar</string>
+    <string name="confirmados_em_isolamento_hospitalar">Confirmados em Isolamento Hospitalar</string>
+    <string name="boletim_do_dia">Boletim do Dia:</string>
+    <string name="dia_do_boletim">Dia do Boletim</string>
+    <string name="numero_de_suspeitos">Número de suspeitos</string>
+    <string name="lista_de_boletins">Lista de boletins</string>
+    <string name="numero_de_pessoas_em_monitoramento">Número de pessoas em monitoramento</string>
+    <string name="numero_de_casos_descartados">Número de casos descartados</string>
+    <string name="numero_de_pessas_curadas">Número de pessas curadas</string>
+    <string name="numeoro_de_casos_suspeitos_em_isolamento_social">Número de casos suspeitos em isolamento social</string>
+    <string name="numero_de_casos_suspeitos_em_isolamento_hospitalar">Número de casos suspeitos em isolamento hospitalar</string>
+    <string name="numero_de_casos_confirmados_em_isolamento_hospitalr">Número de casos confirmados em isolamento hospitalr</string>
+    <string name="horario_do_boletim">Horario do boletim</string>
+    <string name="numero_de_casos_suspeitos">Número de casos suspeitos</string>
+    <string name="numero_de_mortes">Número de mortes</string>
+    <string name="numero_de_casos_confirmados">Número de casos confirmados</string>
+</resources>

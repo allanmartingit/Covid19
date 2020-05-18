@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Covid-19</string>
+    <string name="data">" Fecha"</string>
+    <string name="bot_o_para_mais_informa_es">" Botón para más información"</string>
+    <string name="suspeitos">" Sospechosos"</string>
+    <string name="descartados">" Descartado"</string>
+    <string name="confirmados">" Confirmado"</string>
+    <string name="mortes">" Muertes"</string>
+    <string name="monitoramento">Monitoreo</string>
+    <string name="curados">" Curado"</string>
+    <string name="suspeitos_em_isolamento_social">" Sospechosos en aislamiento social"</string>
+    <string name="suspeitos_em_isolamento_hospitalar">" Sospechosos en aislamiento hospitalario"</string>
+    <string name="confirmados_em_isolamento_hospitalar">" Confirmado en aislamiento hospitalario"</string>
+    <string name="boletim_do_dia">" Boletín del día:"</string>
+    <string name="dia_do_boletim">" Día del boletín"</string>
+    <string name="numero_de_suspeitos">" Numero de sospechosos"</string>
+    <string name="lista_de_boletins">"Listado de boletines "</string>
+    <string name="numero_de_pessoas_em_monitoramento">" Número de personas monitoreadas"</string>
+    <string name="numero_de_casos_descartados">" Número de casos descartados"</string>
+    <string name="numero_de_pessas_curadas">" Número de personas curadas"</string>
+    <string name="numeoro_de_casos_suspeitos_em_isolamento_social">" Número de casos sospechosos en aislamiento social."</string>
+    <string name="numero_de_casos_suspeitos_em_isolamento_hospitalar">Número de casos sospechosos en aislamiento hospitalario.</string>
+    <string name="numero_de_casos_confirmados_em_isolamento_hospitalr">Número de casos confirmados en aislamiento hospitalario.</string>
+    <string name="horario_do_boletim">Horario del boletín</string>
+    <string name="numero_de_casos_suspeitos">Número de casos sospechosos</string>
+    <string name="numero_de_mortes">Número de muertes</string>
+    <string name="numero_de_casos_confirmados">Numero de casos confirmados</string>
+</resources>
